@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @y0Phoenix
+- 👋 Hi, I’m @y0Phoenix aka Eugene
 - 👀 I’m interested in ... fixing issues and gaming especially sim racing.
 - 🌱 I’m currently learning ... JS, C#, and Python.
 - 💞️ I’m looking to collaborate on ... Anything where my skills in JS, C# and Python may help.
