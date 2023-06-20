@@ -1,10 +1,20 @@
-- 👋 Hi, I’m @y0Phoenix aka Eugene
-- 👀 I’m interested in ... fixing issues and gaming especially sim racing.
-- 🌱 I’m currently improving my Rust skills.
-- 💞️ I’m looking to collaborate on ... Anything where my skills in JS, Rust, C/C++ and C# may help.
-- 📫 How to reach me ... Email me at supy0phoenix@gmail.com. 
+# 👋 Hi, I’m Aaron Graybill aka @y0phoenix
 
-<!---
-y0Phoenix/y0Phoenix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👨‍💻 MIT Certified Full Stack Engineer
+- Although my primary focus is Web Dev. I love working with other kinds of Software. The most prominent being Game 🎮, and Embedded 🖥️ Software.
+- 📝 See a brief overview of my portfolio below.
+
+## My Web Development Projects
+* [My Website](https://github.com/y0Phoenix/personal-webpage)
+* [Reciger](https://github.com/y0Phoenix/Reciger)
+* [MIT Capstone](https://github.com/y0Phoenix/mit-capstone-restaurant-app)
+* [MIT Banking App Project](https://github.com/y0Phoenix/aaron-graybillbankingapp)
+
+## My Game Development Projects
+* [Rusty Farm](https://github.com/y0Phoenix/Rusty_Farm)
+* [Bevy Animations](https://github.com/y0Phoenix/bevy_animations)
+
+## My Systems/Embedded Development Projects
+* [Minecraft Server Bounce](https://github.com/y0Phoenix/Minecraft_Server_Bounce)
+* [Smoothy](https://github.com/y0Phoenix/Smoothy)
+* [Smoothy Client](https://github.com/y0Phoenix/Smoothy-Client)
