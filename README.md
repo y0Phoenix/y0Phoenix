@@ -12,7 +12,7 @@
 
 ## My Game Development Projects
 * [Rusty Farm](https://github.com/y0Phoenix/Rusty_Farm)
-* [Bevy Animations](https://github.com/y0Phoenix/bevy_animations)
+* [Bevy Animations](https://github.com/Double-Dot-Interactive/bevy_animations)
 
 ## My Systems/Embedded Development Projects
 * [Minecraft Server Bounce](https://github.com/y0Phoenix/Minecraft_Server_Bounce)
